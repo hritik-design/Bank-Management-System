@@ -1,0 +1,7 @@
+Component	                  Technology
+
+Programming Language	      Python 3.x
+GUI Framework	              Tkinter
+Database                  	MySQL
+Libraries	                  pymysql, decimal, hashlib, csv, binascii
+Development Tools	          VS Code / PyCharm / MySQL Workbench
