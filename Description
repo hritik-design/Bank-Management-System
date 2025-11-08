@@ -1,0 +1,43 @@
+The Bank Management System provides complete control over the management of bank accounts through a graphical interface. The application directly connects to a MySQL database to perform Create, Read, Update, and Delete (CRUD) operations on customer and transaction records.
+
+⚙️ Core Functionalities
+
+Account Management
+
+Create new customer accounts by specifying Account ID, Name, Type, Initial Balance, and Status.
+
+Update account details such as type and status.
+
+Delete inactive or unwanted accounts.
+
+Transaction Management
+
+Perform deposits, withdrawals, and inter-account transfers.
+
+Maintain transaction history for each account automatically.
+
+Prevent transactions on closed accounts or accounts with insufficient funds.
+
+Data Management
+
+Store all records securely in a MySQL database.
+
+Automatically create required tables (Accounts, Transactions, Users) if they do not exist.
+
+Include an administrator account (default username: Hritik, password: 260604).
+
+Reporting and Export
+
+View all accounts and their current balances.
+
+Double-click any account to view its detailed transaction history.
+
+Export account data to a CSV file for record-keeping or auditing.
+
+Graphical User Interface (GUI)
+
+Built using Tkinter for simplicity and responsiveness.
+
+Navigation via buttons for each operation (Create, Deposit, Withdraw, Transfer, Change Status, Delete, Export, Refresh).
+
+Clear data tables (Treeviews) to display accounts and transactions neatly.
