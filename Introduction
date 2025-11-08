@@ -1,0 +1,5 @@
+The Bank Management System is a desktop-based application developed in Python using the Tkinter GUI toolkit and MySQL as the backend database.
+It is designed to automate and simplify the fundamental banking operations performed by bank administrators, such as managing customer accounts, processing transactions, updating account information, and generating reports.
+
+This system provides a user-friendly interface that allows the administrator to efficiently handle banking activities like account creation, deposits, withdrawals, transfers, and account closure — all in real-time.
+The main goal is to provide a lightweight, secure, and easy-to-use tool that can manage and store customer financial data with accuracy and reliability.
